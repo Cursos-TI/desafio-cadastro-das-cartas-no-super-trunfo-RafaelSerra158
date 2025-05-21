@@ -44,7 +44,7 @@ int main() {
     pibporcapita1 = pib1 / populacao1;
     pibporcapita2 = pib2 / populacao2;
 
-    printf("Carta 1\n");
+    printf("Carta1\n");
     printf("populacao: %d\n", populacao1);
     printf("area: %.2f km²\n", area1);
     printf("pib: %.2f bilhões\n", pib1);
@@ -52,7 +52,7 @@ int main() {
     printf("desnsidade populacional: %.2f hab/km²\n", densidade1);
     printf("pib por capita: %.2f\n", pibporcapita1);
 
-    printf("Carta 2\n");
+    printf("Carta2\n");
     printf("populacao: %d\n", populacao2);
     printf("area: %.2f km²\n", area2);
     printf("pib: %.2f bilhões\n", pib2);
