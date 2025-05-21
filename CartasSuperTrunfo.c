@@ -52,7 +52,7 @@ int main() {
     printf("desnsidade populacional: %.2f hab/km²\n", densidade1);
     printf("pib por capita: %.2f\n", pibporcapita1);
 
-    printf("\n--- Carta 2 ---\n");
+    printf("Carta\n");
     printf("populacao: %d\n", populacao2);
     printf("area: %.2f km²\n", area2);
     printf("pib: %.2f bilhões\n", pib2);
